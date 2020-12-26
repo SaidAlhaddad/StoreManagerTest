@@ -1,0 +1,7 @@
+D:\source\repos\test for solid\test for solid\bin\Debug\test for solid.exe.config
+D:\source\repos\test for solid\test for solid\bin\Debug\test for solid.exe
+D:\source\repos\test for solid\test for solid\bin\Debug\test for solid.pdb
+D:\source\repos\test for solid\test for solid\obj\Debug\test for solid.csprojAssemblyReference.cache
+D:\source\repos\test for solid\test for solid\obj\Debug\test for solid.csproj.CoreCompileInputs.cache
+D:\source\repos\test for solid\test for solid\obj\Debug\test for solid.exe
+D:\source\repos\test for solid\test for solid\obj\Debug\test for solid.pdb
