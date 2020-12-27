@@ -43,12 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Material\AddItem.cs" />
-    <Compile Include="Material\DeleteMaterial.cs" />
-    <Compile Include="Material\ExportMaterial.cs" />
-    <Compile Include="Material\ImportMaterial.cs" />
-    <Compile Include="Material\Material.cs" />
-    <Compile Include="Material\UpdateMaterial.cs" />
+    <Compile Include="Models\Material\AddItem.cs" />
+    <Compile Include="Models\Material\DeleteMaterial.cs" />
+    <Compile Include="Models\Material\ExportMaterial.cs" />
+    <Compile Include="Models\Material\ImportMaterial.cs" />
+    <Compile Include="Models\Material\Material.cs" />
+    <Compile Include="Models\Material\UpdateMaterial.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -5,3 +5,10 @@ D:\source\repos\test for solid\test for solid\obj\Debug\test for solid.csprojAss
 D:\source\repos\test for solid\test for solid\obj\Debug\test for solid.csproj.CoreCompileInputs.cache
 D:\source\repos\test for solid\test for solid\obj\Debug\test for solid.exe
 D:\source\repos\test for solid\test for solid\obj\Debug\test for solid.pdb
+D:\Said\StoreManager\test for solid\test for solid\bin\Debug\test for solid.exe.config
+D:\Said\StoreManager\test for solid\test for solid\bin\Debug\test for solid.exe
+D:\Said\StoreManager\test for solid\test for solid\bin\Debug\test for solid.pdb
+D:\Said\StoreManager\test for solid\test for solid\obj\Debug\test for solid.csprojAssemblyReference.cache
+D:\Said\StoreManager\test for solid\test for solid\obj\Debug\test for solid.csproj.CoreCompileInputs.cache
+D:\Said\StoreManager\test for solid\test for solid\obj\Debug\test for solid.exe
+D:\Said\StoreManager\test for solid\test for solid\obj\Debug\test for solid.pdb

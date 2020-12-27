@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using test_for_solid.Models.Material;
 
 namespace test_for_solid
 {
@@ -10,8 +11,8 @@ namespace test_for_solid
     {
         static void Main(string[] args)
         {
-            Material.Material m1 = new Material.Material("Shminto", "Kies", 5000, 5);
-            Material.ImportMaterial imMa = new Material.ImportMaterial();
+            Material m1 = new Material("Shminto", "Kies", 5000, 5);
+            ImportMaterial imMa = new ImportMaterial();
             imMa.import(m1);
 
 
